@@ -6,5 +6,5 @@ int main()
 	cout << "Type your age: ";
 	cin >> n;
 	cout <<"Your age is: "<<n<<endl;
-	cout << "But your real age is " << n - 10 << " ,because you are stupid, adios amigos doritos";
+	cout << "But your real age is " << n - 10 << " ,because you are stupid, adios amigos doritos bobritos banditos";
 }
